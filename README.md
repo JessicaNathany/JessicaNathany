@@ -1,4 +1,4 @@
-#### Hi, I´m Jéssica Nathany and I love technologies and share knowledge 👋
+#### Hi, I´m Jéssica Nathany Software Backend Developer 👋
 
 
 
