@@ -1,7 +1,6 @@
 ### Hi, I´m Jéssica Nathany and I love technologies and share knowledge 👋
 
-<!--
-**JessicaNathany/JessicaNathany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 - 🔭 I'm Software Developer currently I´m working on plataform .NET
@@ -12,4 +11,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/jessica-nathany-carvalho-freitas-38260868/ 
 - 😄 About me: I´m love radical sports, travel, adventure, cook and play games
 
--->
+
