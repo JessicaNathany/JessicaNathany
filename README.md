@@ -7,7 +7,7 @@
 - 👯 I’m have a project to collaborate share knowledge podcast Café debug and development the web site
 - 🤔 I’m looking for help with about other tecnologies and programming languages
 - 💬 Ask me about .NET, Patterns, Clean Code, Cloud, Unit Test..
-- 📫 Do you want to talk with me: https://www.linkedin.com/in/jessica-nathany-carvalho-freitas-38260868/ 
+- 📫 You can talk with me: https://www.linkedin.com/in/jessica-nathany-carvalho-freitas-38260868/ 
 - 😄 About me: I´m love radical sports, travel, adventure, cook and play games
 
 
