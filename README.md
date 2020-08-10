@@ -9,6 +9,7 @@
 - 🤔 I’m looking for help with about other tecnologies and programming languages
 - 💬 Ask me about .NET, Patterns, Clean Code, Cloud, Unit Test..
 - 📫 Do you want to talk with me: https://www.linkedin.com/in/jessica-nathany-carvalho-freitas-38260868/ 
+- :books:
 - 😄 About me: I´m love radical sports, travel, adventure, cook and play games
 
 
