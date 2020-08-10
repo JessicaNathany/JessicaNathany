@@ -2,7 +2,7 @@
 
 
 
-- :works:
+- :computer:
 - 🔭 I'm Software Developer currently I´m working on plataform .NET
 - 🌱 I’m currently learning Design Patterns, Software Architecture, Unit Test and Docker.
 - 👯 I’m have a project to collaborate share knowledge podcast Café debug and development the web site
