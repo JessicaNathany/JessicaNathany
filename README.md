@@ -13,5 +13,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jessica-nathany-carvalho-freitas-38260868//)](https://https://www.linkedin.com/in/jessica-nathany-carvalho-freitas-38260868//)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JessicaNathanyF)](https://twitter.com/JessicaNathanyF)
- [Blog](https://medium.com/@JessicaNathanyF/) ✍🏼 - I'm write about many things.
+.[Blog](https://medium.com/@JessicaNathanyF/) ✍🏼 - I'm write about many things.
 
