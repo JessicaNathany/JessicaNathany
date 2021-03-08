@@ -8,7 +8,7 @@
 - :mag: I’m looking for help with about other tecnologies and programming languages
 - 💬 Ask me about .NET, Patterns, Clean Code, Cloud, Unit Test..
 - [Blog](https://medium.com/@JessicaNathanyF/) ✍🏼 - I'm write about many things and some technologies.
-- [Blog 2] (https://dev.to/jessicanathany) ✍🏼 - II'm write about technologies and others concepts.
+- [Blog-2](https://dev.to/jessicanathany/) ✍🏼 - II'm write about technologies and others concepts.
 - [Website](https://cafedebug.com.br/) 💻 - Working on it my technology podcast.
 
 
