@@ -2,7 +2,7 @@
 
 
 
-- :mortar_board: .Software Developer .NET
+- :mortar_board: Software Developer .NET
 - :blue_book: Unit Test, Algorithms, Python, C#, Design Patterns, Architecture Software, Docker and Linux
 - :smiley: I’m have a project to collaborate share knowledge podcast Café debug and development the web site
 - :mag: I’m looking for help with about other tecnologies and programming languages
