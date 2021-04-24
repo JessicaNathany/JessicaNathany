@@ -6,8 +6,8 @@
 - :blue_book: Unit Test, Algorithms, Python, C#, Design Patterns, Architecture Software, Docker and Linux
 - :smiley: I’m have a project to collaborate share knowledge podcast Café debug and development the web site
 - 💬 Ask me about .NET, Patterns, Clean Code, Cloud, Unit Test, Design Patterns
-- [Blog](https://medium.com/@JessicaNathanyF/) ✍🏼 - I'm write about many things and some technologies.
-- [Blog-2](https://dev.to/jessicanathany/) ✍🏼 - II'm write about technologies and others concepts.
+- [Medium](https://medium.com/@JessicaNathanyF/) ✍🏼 - II'm write about lot things
+- [DEV](https://dev.to/jessicanathany/) ✍🏼 - I'm write about many things and some technologies.
 - [Website](https://cafedebug.com.br/) 💻 - Working on it my technology podcast.
 
 
