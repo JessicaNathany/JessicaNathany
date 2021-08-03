@@ -3,6 +3,9 @@
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
+#### Languages and tools
+<i class="devicon-csharp-plain colored"></i>
+
 
 - :mortar_board: Postgraduate MBA in Software Architecture and Development
 - :blue_book: Unit Test, Algorithms, Python, C#, Design Patterns, Architecture Software, Docker and Linux
@@ -14,10 +17,8 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jessica-nathany-carvalho-freitas-38260868//)](https://www.linkedin.com/in/jessicanathany-softwaredeveloper/)
-
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JessicaNathanyF)](https://twitter.com/JessicaNathanyF)
 
-[![Twitter Badge](https://img.shields.io/badge/-instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://www.instagram.com/jnathanycarvalho/)](https://www.instagram.com/jnathanycarvalho/)
 
 
 
