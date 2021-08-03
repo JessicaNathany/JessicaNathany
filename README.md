@@ -1,5 +1,7 @@
 #### Hi, I´m Jéssica Nathany Software Backend Developer 👋
 
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 
 - :mortar_board: Postgraduate MBA in Software Architecture and Development
