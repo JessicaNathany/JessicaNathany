@@ -5,7 +5,7 @@
 
 #### Languages and tools
 <i class="devicon-csharp-plain colored"></i>
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 - :mortar_board: Postgraduate MBA in Software Architecture and Development
 - :blue_book: Unit Test, Algorithms, Python, C#, Design Patterns, Architecture Software, Docker and Linux
