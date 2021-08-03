@@ -26,6 +26,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jessica-nathany-carvalho-freitas-38260868//)](https://www.linkedin.com/in/jessicanathany-softwaredeveloper/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JessicaNathanyF)](https://twitter.com/JessicaNathanyF)
+<a href="mailto:pedromuramatsuc@gmail.com"><img src="https://camo.githubusercontent.com/d288da1d58a61b7031c7df4ad00f7780855bab17f4e0fc882d40ddb7b2bccc13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a706564726f6d7572616d617473756340676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:jessicanathany.web@gmail.com" style="max-width:100%;"></a>
 
 
 
