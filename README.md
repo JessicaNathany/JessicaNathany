@@ -7,11 +7,7 @@
 <i class="devicon-dotnetcore-plain colored"></i>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-<!-- in your body -->
-<i class="devicon-devicon-plain"></i>
+<i class="devicon-amazonwebservices-original colored"></i>
 
 
 - :mortar_board: Postgraduate MBA in Software Architecture and Development
