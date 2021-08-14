@@ -7,8 +7,8 @@
 <i class="devicon-csharp-original colored">
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
 
-<i class="devicon-csharp-original colored">
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
+<i class="devicon-dotnetcore-original colored">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
 
 
 
