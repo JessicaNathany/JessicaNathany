@@ -10,12 +10,20 @@
 <i class="devicon-dotnetcore-original colored">
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
 
+<i class="amazonwebservices-original colored">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
 
+<i class="docker-original colored">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
 
+<i class="linux-original colored">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
 
+<i class="python-original colored">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
  
-
-  
+<i class="mongodb-original colored">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
 
 - :mortar_board: Postgraduate MBA in Software Architecture and Development
 - :blue_book: Unit Test, Algorithms, Python, C#, Design Patterns, Architecture Software, Docker and Linux
