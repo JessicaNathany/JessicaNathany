@@ -10,7 +10,7 @@
 - ✍🏼  I'm write about many things and some technologies. [Medium](https://medium.com/@JessicaNathanyF/) 
 - 💬 Ask me about **C#, Software Architecture, Clean Code, Design Patterns, platform .NET and Web Applications, Career etc**
 - 📫 How to reach me **jessicanathany.web@gmail.com**
-- 📄 Know about my experiences [8 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development](8 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development)
+- 📄 Know about my experiences **8 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development**
 
 - ⚡ Fun fact **I am passionate for extreme sport and adventure**
 
