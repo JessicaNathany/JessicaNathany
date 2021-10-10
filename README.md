@@ -11,7 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📝 I regularly write articles on [https://dev.to/jessicanathany and https://medium.com/@jessicanathanyf](https://dev.to/jessicanathany and https://medium.com/@jessicanathanyf)
+- ✍🏼  I'm write about many things and some technologies. [DEV](https://dev.to/jessicanathany/) 
+
+- ✍🏼  I'm write about many things and some technologies. [Medium](https://medium.com/@JessicaNathanyF/) 
 
 - 💬 Ask me about **C#, Software Architecture, Clean Code, Design Patterns, platform .NET and Web Applications, Career etc**
 
