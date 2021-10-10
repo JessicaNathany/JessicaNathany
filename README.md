@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jessicanathany.web@gmail.com**
 
-- 📄 Know about my experiences [Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development and Technologies Podcast Café debug Host. I am like so much to learn other technologies, to share knowledge, and get knowledge. I am in love with innovation development and ideas that promote great changes and positively impact people and the world.](Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development and Technologies Podcast Café debug Host. I am like so much to learn other technologies, to share knowledge, and get knowledge. I am in love with innovation development and ideas that promote great changes and positively impact people and the world.)
+- 📄 Know about my experiences [8 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development.]
 
 - ⚡ Fun fact **I am passionate for extreme sport and adventure**
 
