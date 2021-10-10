@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jéssica Nathany</h1>
-<h3 align="center">A passionate backend developer from Brazil, I love share knowledge.</h3>
+<h1 align="left">Hi 👋, I'm Jéssica Nathany</h1>
+<h3 align="left">A passionate backend developer from Brazil, I love share knowledge.</h3>
 
 - 🔭 I’m currently working K2 Partnering Solutions with .NET Platform **Digital Bank BS2**
 
