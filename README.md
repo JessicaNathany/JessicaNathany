@@ -15,7 +15,7 @@
 
 📕  Latest Blog Posts.
 - [DEV](https://dev.to/jessicanathany/) ✍🏼 - I'm write about many things and some technologies.
-- [Website](https://cafedebug.com.br/) 💻 - Working on it my technology podcast.
+- [Website](https://cafedebug.com.br/) 💻 - Working on it my technology podcast. <br />
 
 
 
