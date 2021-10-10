@@ -2,23 +2,14 @@
 <h3 align="center">A passionate backend developer from Brazil, I love share knowledge.</h3>
 
 - 🔭 I’m currently working K2 Partnering Solutions with .NET Platform **Digital Bank BS2**
-
 - 🌱 I’m currently learning **Python, MongoDB, Redis,Linux and AWS**
-
 - 👯 I’m looking to collaborate on **C#, .NET Framework, Unit Test, Software Architecture, Design Patterns, Clean Code and API**
-
 - 🤝 I’m looking for help with **Python**
-
 - 👨‍💻 All of my projects are available at [Github](Github)
-
 - ✍🏼  I'm write about many things and some technologies. [Dev.To](https://dev.to/jessicanathany/) 
-
 - ✍🏼  I'm write about many things and some technologies. [Medium](https://medium.com/@JessicaNathanyF/) 
-
 - 💬 Ask me about **C#, Software Architecture, Clean Code, Design Patterns, platform .NET and Web Applications, Career etc**
-
 - 📫 How to reach me **jessicanathany.web@gmail.com**
-
 - 📄 Know about my experiences [8 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development](8 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development)
 
 - ⚡ Fun fact **I am passionate for extreme sport and adventure**
