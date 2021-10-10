@@ -1,45 +1,37 @@
-#### Hi, I´m Jéssica Nathany Software Backend Developer 👋
+<h1 align="center">Hi 👋, I'm Jéssica Nathany</h1>
+<h3 align="center">A passionate backend developer from Brazil, I love share knowledge.</h3>
 
+- 🔭 I’m currently working K2 Partnering Solutions with .NET Platform **Digital Bank BS2**
 
+- 🌱 I’m currently learning **Python, MongoDB, Redis,Linux and AWS**
 
-#### Languages and tools
+- 👯 I’m looking to collaborate on **C#, .NET Framework, Unit Test, Software Architecture, Design Patterns, Clean Code and API**
 
-<i class="devicon-csharp-original colored">
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
+- 🤝 I’m looking for help with **Python**
 
-<i class="devicon-dotnetcore-original colored">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
+- 👨‍💻 All of my projects are available at [Github](Github)
 
-<i class="amazonwebservices-original colored">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
+- 📝 I regularly write articles on [https://dev.to/jessicanathany and https://medium.com/@jessicanathanyf](https://dev.to/jessicanathany and https://medium.com/@jessicanathanyf)
 
-<i class="docker-original colored">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
+- 💬 Ask me about **C#, Software Architecture, Clean Code, Design Patterns, platform .NET and Web Applications, Career etc**
 
-<i class="linux-original colored">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
+- 📫 How to reach me **jessicanathany.web@gmail.com**
 
-<i class="python-original colored">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
- 
-<i class="mongodb-original colored">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="csharp" width="25" height="25" style="max-width:100%;"></a>
+- 📄 Know about my experiences [• 8 years of software development backend .NET Platform • Postgraduate MBA in Software Architecture and Development • Technologies Podcast Café debug Host. I am like so much to learn other technologies, to share knowledge, and get knowledge. I am in love with innovation development and ideas that promote great changes and positively impact people and the world.](• 8 years of software development backend .NET Platform • Postgraduate MBA in Software Architecture and Development • Technologies Podcast Café debug Host. I am like so much to learn other technologies, to share knowledge, and get knowledge. I am in love with innovation development and ideas that promote great changes and positively impact people and the world.)
 
-- :mortar_board: Postgraduate MBA in Software Architecture and Development
-- :blue_book: Unit Test, Algorithms, Python, C#, Design Patterns, Architecture Software, Docker and Linux
-- :smiley: I’m have a project to collaborate share knowledge podcast Café debug and development the web site
-- 💬 Ask me about .NET, Patterns, Clean Code, Cloud, Unit Test, Design Patterns
-- [Medium](https://medium.com/@JessicaNathanyF/) ✍🏼 - II'm write about lot things
-- [DEV](https://dev.to/jessicanathany/) ✍🏼 - I'm write about many things and some technologies.
-- [Website](https://cafedebug.com.br/) 💻 - Working on it my technology podcast.
+- ⚡ Fun fact **I am passionate for extreme sport and adventure**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://medium.com/@jessicanathanyf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://medium.com/@jessicanathanyf" height="30" width="40" /></a>
+<a href="https://twitter.com/@jessicanathanyf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jessicanathanyf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jessicanathany-softwaredeveloper/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessicanathany-softwaredeveloper/?locale=en_us" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/7711409/j%c3%a9ssica-nathany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7711409/j%c3%a9ssica-nathany" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jnathanycarvalho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jnathanycarvalho/" height="30" width="40" /></a>
+<a href="https://medium.com/@jessicanathanyf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jessicanathanyf" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/jnathany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jnathany" height="30" width="40" /></a>
+<a href="https://discord.gg/Jéssica Nathany#5931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jéssica Nathany#5931" height="30" width="40" /></a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jessica-nathany-carvalho-freitas-38260868//)](https://www.linkedin.com/in/jessicanathany-softwaredeveloper/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JessicaNathanyF)](https://twitter.com/JessicaNathanyF)
-<a href="mailto:pedromuramatsuc@gmail.com"><img src="https://camo.githubusercontent.com/d288da1d58a61b7031c7df4ad00f7780855bab17f4e0fc882d40ddb7b2bccc13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a706564726f6d7572616d617473756340676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:jessicanathany.web@gmail.com" style="max-width:100%;"></a>
-
-
-
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
