@@ -11,6 +11,8 @@
 - 📄 Know about my experiences **8 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development**
 - ⚡ Fun fact **I am passionate for extreme sport and adventure**
 
+
+
 📕  Latest Blog Posts.
 - [DEV](https://dev.to/jessicanathany/) ✍🏼 - I'm write about many things and some technologies.
 - [Website](https://cafedebug.com.br/) 💻 - Working on it my technology podcast.
