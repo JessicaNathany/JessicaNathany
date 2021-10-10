@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- ✍🏼  I'm write about many things and some technologies. [DEV](https://dev.to/jessicanathany/) 
+- ✍🏼  I'm write about many things and some technologies. [Dev.To](https://dev.to/jessicanathany/) 
 
 - ✍🏼  I'm write about many things and some technologies. [Medium](https://medium.com/@JessicaNathanyF/) 
 
