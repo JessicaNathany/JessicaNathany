@@ -9,12 +9,13 @@
 - 💬 Ask me about **C#, Software Architecture, Clean Code, Design Patterns, platform .NET and Web Applications, Career etc**
 - 📫 How to reach me **jessicanathany.web@gmail.com**
 - 📄 Know about my experiences **8 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development**
+- ⚡ Fun fact **I am passionate for extreme sport and adventure**
 
 📕  Latest Blog Posts.
 - [DEV](https://dev.to/jessicanathany/) ✍🏼 - I'm write about many things and some technologies.
 - [Website](https://cafedebug.com.br/) 💻 - Working on it my technology podcast.
 
-- ⚡ Fun fact **I am passionate for extreme sport and adventure**
+
 
 <h3 align="left">Connect with me:</h3><br />
 <p align="left">
