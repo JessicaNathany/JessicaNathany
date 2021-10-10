@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Jéssica Nathany</h1>
-<h3 align="left">A passionate backend developer from Brazil, I love share knowledge.</h3>
+<h1 align="center">Hi 👋, I'm Jéssica Nathany</h1>
+<h3 align="center">A passionate backend developer from Brazil, I love share knowledge.</h3>
 
 - 🔭 I’m currently working K2 Partnering Solutions with .NET Platform **Digital Bank BS2**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jessicanathany.web@gmail.com**
 
-- 📄 Know about my experiences [• 8 years of software development backend .NET Platform • Postgraduate MBA in Software Architecture and Development • Technologies Podcast Café debug Host. I am like so much to learn other technologies, to share knowledge, and get knowledge. I am in love with innovation development and ideas that promote great changes and positively impact people and the world.](• 8 years of software development backend .NET Platform • Postgraduate MBA in Software Architecture and Development • Technologies Podcast Café debug Host. I am like so much to learn other technologies, to share knowledge, and get knowledge. I am in love with innovation development and ideas that promote great changes and positively impact people and the world.)
+- 📄 Know about my experiences [Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development and Technologies Podcast Café debug Host. I am like so much to learn other technologies, to share knowledge, and get knowledge. I am in love with innovation development and ideas that promote great changes and positively impact people and the world.](Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development and Technologies Podcast Café debug Host. I am like so much to learn other technologies, to share knowledge, and get knowledge. I am in love with innovation development and ideas that promote great changes and positively impact people and the world.)
 
 - ⚡ Fun fact **I am passionate for extreme sport and adventure**
 
