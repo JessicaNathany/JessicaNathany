@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jéssica Nathany</h1>
 <h3 align="left">A passionate backend developer from Brazil, I love share knowledge.</h3>
 
-- 🔭 I’m currently working K2 Partnering Solutions with .NET Platform **Digital Bank BS2**
+- 🔭 Software Developer Backend at **Globo**
 - 🌱 I’m currently learning **Python, MongoDB, Redis,Linux and AWS**
 - 👯 I’m looking to collaborate on **C#, .NET Framework, Unit Test, Software Architecture, Design Patterns, Clean Code and API**
 - 🤝 I’m looking for help with **Python**
