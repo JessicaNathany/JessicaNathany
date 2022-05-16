@@ -4,7 +4,6 @@
 - 🔭 Software Developer Backend at **Globo**
 - 🌱 I’m currently learning **Python, MongoDB, Redis,Linux and AWS**
 - 👯 I’m looking to collaborate on **C#, .NET Framework, Unit Test, Software Architecture, Design Patterns, Clean Code and API**
-- 🤝 I’m looking for help with **Python**
 - 👨‍💻 All of my projects are available at [Github](Github)
 - 💬 Ask me about **C#, Software Architecture, Clean Code, Design Patterns, platform .NET and Web Applications, Career etc**
 - 📫 How to reach me **jessicanathany.web@gmail.com**
