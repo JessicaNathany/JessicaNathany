@@ -2,7 +2,7 @@
 <h3 align="left">A passionate backend developer from Brazil, I love share knowledge.</h3>
 
 - 🔭 Software Developer Backend at **Globo**
-- 🌱 I’m currently learning **Python, Go, Redis e Linux**
+- 🌱 I’m currently learning **Python and Go**
 - 👯 I’m looking to collaborate on **C#, .NET Framework, Unit Test, Software Architecture, Design Patterns, Clean Code and API**
 - 👨‍💻 All of my projects are available at [Github](Github)
 - 💬 Ask me about **C#, Software Architecture, Clean Code, Design Patterns, platform .NET and Web Applications, Career etc**
