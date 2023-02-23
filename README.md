@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jéssica Nathany</h1>
-<h3 align="left">A passionate backend developer from Brazil, I love share knowledge.</h3>
+<h3 align="left">A passionate backend developer from Brazil, I like share knowledge.</h3>
 
 - 🔭 Software Developer Backend at **Globo**
 - 🌱 I’m currently learning **Python and Go**
