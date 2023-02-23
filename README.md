@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jéssica Nathany</h1>
-<h3 align="left">A passionate backend developer from Brazil, I like share knowledge.</h3>
+<h3 align="left">A passionate software backend engineer from Brazil, I like share knowledge.</h3>
 
-- 🔭 Software Developer Backend at **Globo**
+- 🔭 Software Engineer Backend at **Globo**
 - 🌱 I’m currently learning **Python and Go**
 - 👯 I’m looking to collaborate on **C#, .NET Framework, Unit Test, Software Architecture, Design Patterns, Clean Code and API**
 - 👨‍💻 All of my projects are available at [Github](Github)
