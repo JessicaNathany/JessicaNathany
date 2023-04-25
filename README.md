@@ -10,12 +10,17 @@
 - 📄 Know about my experiences **8 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development**
 - ⚡ Fun fact **I am passionate for extreme sport and adventure**
 
+
 <h3 align="left">Articles</h3><br />
 
 📕  Latest Blog Posts.
 - [DEV](https://dev.to/jessicanathany/) ✍🏼 - I'm write about many things and some technologies.
 - [Website](https://cafedebug.com.br/) 💻 - Content creator tech. <br />
 
+
+<div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaNathany&layout=compact&langs_count=6&theme=algolia"/>
+</div>
 
 
 <h3 align="left">Connect with me:</h3><br />
