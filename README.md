@@ -18,9 +18,7 @@
 - [Website](https://cafedebug.com.br/) 💻 - Content creator tech. <br />
 
 
-<div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaNathany&layout=compact&langs_count=6&theme=algolia"/>
-</div>
+
 
 
 <h3 align="left">Connect with me:</h3><br />
