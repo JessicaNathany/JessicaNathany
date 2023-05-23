@@ -2,13 +2,11 @@
 <h3 align="left">A passionate software backend engineer from Brazil, I like share knowledge.</h3>
 
 - 🔭 Software Engineer Backend at **Globo**
-- 🌱 I’m currently learning **Python and Go**
 - 👯 I’m looking to collaborate on **C#, .NET Framework, Unit Test, Software Architecture, Design Patterns, Clean Code and API**
 - 👨‍💻 All of my projects are available at [Github](Github)
 - 💬 Ask me about **C#, Software Architecture, Clean Code, Design Patterns, platform .NET and Web Applications, Career etc**
-- 📫 How to reach me **jessicanathany.web@gmail.com**
 - 📄 Know about my experiences **8 Years of software development backend .NET Platform, Postgraduate MBA in Software Architecture and Development**
-- ⚡ Fun fact **I am passionate for extreme sport and adventure**
+
 
 
 <h3 align="left">Articles</h3><br />
