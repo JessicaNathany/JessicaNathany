@@ -8,20 +8,7 @@ Adoro o desenvolvimento de inovações e ideias que promovem grandes mudanças e
 💼 Quem é Jéssica Nathany como Software Developer?
 
 Sou Engenheiro de Software Backend na Globo e tenho oito anos de experiência com a linguagem C# e stack .NET Core, sou pós-graduado em MBA em Arquitetura e Desenvolvimento de Software.
-Sou fundador do podcast de tecnologia [Café Debug](https://cafedebug.com.br) onde crio conteúdo de tecnologia para compartilhar conhecimento na área de TI. Trabalhei com projetos como comércio eletrônico, banco digital e agora entretenimento.
-
-💻 Tecnologias com que eu trabalho
--  Proeficiência emn C#, SQL, .NET Core, e bancos de dados SQL Server/MySQL 
--  Experiência com plataforma cloud, especialmente serviços AWS como: RDS, EC2, S3, DynamoDB, e Lambda
--  Familiaridade com ferramentas de automação como Docker, Azure DevOps e GitFlow para CI/CD
--  Tenho uma sólida compreensão dos conceitos de arquitetura orientada por eventos e experiência em mensagens
- tecnologias, especialmente a ferramenta RabbitMQ
--  Experiência de trabalho com bancos de dados SQL e NoSQL, especificamente DynamoDB e MongoDB
--  Conhecimento profundo dos princípios de desenvolvimento de software, como SOLID, padrões de projeto e arquitetura limpa. 
- Código/arquitetura limpa
--  Conhecimento com testes de unidade
--  Capacidade de projetar sistemas escalonáveis e passíveis de manutenção usando conceitos de design de sistemas
--  Observabilidade e monitoramento <br /><br />
+Sou fundador do podcast de tecnologia [Café Debug](https://cafedebug.com.br) onde crio conteúdo de tecnologia para compartilhar conhecimento na área de TI. Trabalhei com projetos como comércio eletrônico, banco digital e agora entretenimento.<br /><br />
 
 
 
@@ -36,19 +23,6 @@ I love innovation development and ideas that promote great changes and positivel
 
 I am Software Enginer Backend at Globo and I have eight years with C# Language and stack .NET Core, I am a postgraduate in MBA in Software Architecture and Development.
 I founder the technology podcast [Café Debug](https://cafedebug.com.br), where I create technology content for sharing knowledge de the IT area. I was working with projects such as e-commerce, digital bank, and now entertainment.
-
-💻 Technologies I work with
--  Proficiency in C#, SQL, .NET Core, and SQL Server/MySQL databases
--  Experience with cloud platforms, specifically AWS and services like RDS, EC2, S3, DynamoDB, and Lambda
--  Familiarity with automation tools like Docker, Azure DevOps, and GitFlow for CI/CD
--  I have a solid understanding of event-driven architecture concepts and experience in messaging
- technologies, particularly the RabbitMQ tool
--  Experience working with both SQL and NoSQL databases, specifically DynamoDB and MongoDB
--  Strong understanding of software development principles like SOLID, Design Patterns, and Clean 
- Code/Clean Architecture
--  Knowledge of unit testing and testing frameworks
--  Ability to design scalable and maintainable systems using System Design concepts
--  Observability and Monitoring
 
 
 <h3 align="left">Articles</h3><br />
