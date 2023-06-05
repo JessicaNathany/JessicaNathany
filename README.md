@@ -1,4 +1,4 @@
-<h2 align="left">Português</h2><br />
+<h2>Português</h2><br />
 
 <h2 align="left">Olá 👋, Sou Jéssica Nathany</h2><br />
 
@@ -21,11 +21,11 @@ Sou fundador do podcast de tecnologia [Café Debug](https://cafedebug.com.br) on
  Código/arquitetura limpa
 -  Conhecimento com testes de unidade
 -  Capacidade de projetar sistemas escalonáveis e passíveis de manutenção usando conceitos de design de sistemas
--  Observabilidade e monitoramento
+-  Observabilidade e monitoramento<br />
 
 
 
-<h2 align="left">English</h2><br />
+<h2>English</h2><br />
 
 <h2 align="left">Hi 👋, I'm Jéssica Nathany</h2><br />
 
