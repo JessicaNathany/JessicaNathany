@@ -1,3 +1,32 @@
+Português
+
+<h1 align="left">Olá 👋, Sou Jéssica Nathany</h1><br />
+
+Eu sou a Jéssica Nathany, mas todos me chama de Jeh ou Jessy, eu tenho 33 anos e nasci em Brasil na capital de São Paulo. <br />
+Adoro o desenvolvimento de inovações e ideias que promovem grandes mudanças e impactam positivamente as pessoas e o mundo. <br />
+
+💼 Quem é Jéssica Nathany como Software Developer?
+
+Sou Engenheiro de Software Backend na Globo e tenho oito anos de experiência com a linguagem C# e stack .NET Core, sou pós-graduado em MBA em Arquitetura e Desenvolvimento de Software.
+Sou fundador do podcast de tecnologia [Café Debug](https://cafedebug.com.br) onde crio conteúdo de tecnologia para compartilhar conhecimento na área de TI. Trabalhei com projetos como comércio eletrônico, banco digital e agora entretenimento.
+
+💻 Tecnologias com que eu trabalho
+-  Proeficiência emn C#, SQL, .NET Core, e bancos de dados SQL Server/MySQL 
+-  Experiência com plataforma cloud, especialmente serviços AWS como: RDS, EC2, S3, DynamoDB, e Lambda
+-  Familiaridade com ferramentas de automação como Docker, Azure DevOps e GitFlow para CI/CD
+-  Tenho uma sólida compreensão dos conceitos de arquitetura orientada por eventos e experiência em mensagens
+ tecnologias, especialmente a ferramenta RabbitMQ
+-  Experiência de trabalho com bancos de dados SQL e NoSQL, especificamente DynamoDB e MongoDB
+-  Conhecimento profundo dos princípios de desenvolvimento de software, como SOLID, padrões de projeto e arquitetura limpa. 
+ Código/arquitetura limpa
+-  Conhecimento com testes de unidade
+-  Capacidade de projetar sistemas escalonáveis e passíveis de manutenção usando conceitos de design de sistemas
+-  Observabilidade e monitoramento
+
+
+
+English
+
 <h1 align="left">Hi 👋, I'm Jéssica Nathany</h1><br />
 
 I'm Jéssica Nathany, but everyone calls me Jeh or Jessy, I am 33 years old and I was born in Brazil São Paulo.  <br />
