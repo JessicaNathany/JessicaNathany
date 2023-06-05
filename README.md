@@ -6,7 +6,7 @@ I love innovation development and ideas that promote great changes and positivel
 💼 Who is Jéssica Nathany as Software Developer?
 
 I am Software Enginer Backend at Globo and I have eight years with C# Language and stack .NET Core, I am a postgraduate in MBA in Software Architecture and Development.
-I founder the technology podcast [Café Debug(https://cafedebug.com.br/)], where I create technology content for sharing knowledge de the IT area. I was working with projects such as e-commerce, digital bank, and now entertainment.
+I founder the technology podcast Café Debug(https://cafedebug.com.br/), where I create technology content for sharing knowledge de the IT area. I was working with projects such as e-commerce, digital bank, and now entertainment.
 
 💻 Technologies I work with
 -  Proficiency in C#, SQL, .NET Core, and SQL Server/MySQL databases
