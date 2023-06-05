@@ -1,6 +1,6 @@
 <h2 align="left">Português</h2><br />
 
-<h1 align="left">Olá 👋, Sou Jéssica Nathany</h1><br />
+<h2 align="left">Olá 👋, Sou Jéssica Nathany</h2><br />
 
 Eu sou a Jéssica Nathany, mas todos me chama de Jeh ou Jessy, eu tenho 33 anos e nasci em Brasil na capital de São Paulo. <br />
 Adoro o desenvolvimento de inovações e ideias que promovem grandes mudanças e impactam positivamente as pessoas e o mundo. <br />
@@ -27,7 +27,7 @@ Sou fundador do podcast de tecnologia [Café Debug](https://cafedebug.com.br) on
 
 <h2 align="left">English</h2><br />
 
-<h1 align="left">Hi 👋, I'm Jéssica Nathany</h1><br />
+<h2 align="left">Hi 👋, I'm Jéssica Nathany</h2><br />
 
 I'm Jéssica Nathany, but everyone calls me Jeh or Jessy, I am 33 years old and I was born in Brazil São Paulo.  <br />
 I love innovation development and ideas that promote great changes and positively impact people and the world.. <br />
