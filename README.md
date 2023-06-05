@@ -21,7 +21,7 @@ Sou fundador do podcast de tecnologia [Café Debug](https://cafedebug.com.br) on
  Código/arquitetura limpa
 -  Conhecimento com testes de unidade
 -  Capacidade de projetar sistemas escalonáveis e passíveis de manutenção usando conceitos de design de sistemas
--  Observabilidade e monitoramento<br />
+-  Observabilidade e monitoramento <br /><br />
 
 
 
