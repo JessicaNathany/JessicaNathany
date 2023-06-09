@@ -1,4 +1,4 @@
-<h2>Português</h2><br />
+Português
 
 <h2 align="left">Olá 👋, Sou Jéssica Nathany</h2><br />
 
@@ -12,7 +12,7 @@ Sou fundador do podcast de tecnologia [Café Debug](https://cafedebug.com.br) on
 
 
 
-<h2>English</h2><br />
+English
 
 <h2 align="left">Hi 👋, I'm Jéssica Nathany</h2><br />
 
