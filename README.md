@@ -7,7 +7,7 @@ Adoro o desenvolvimento de inovações e ideias que promovem grandes mudanças e
 
 💼 Quem é Jéssica Nathany como Software Developer?
 
-Sou Engenheira de Software Backend na Globo e tenho oito anos de experiência com a linguagem C# e stack .NET Core, sou pós-graduado em MBA em Arquitetura e Desenvolvimento de Software.
+Sou Software Developer Backend na Wiley e tenho oito anos de experiência com a linguagem C# e stack .NET Core, sou pós-graduado em MBA em Arquitetura e Desenvolvimento de Software.
 Sou fundador do podcast de tecnologia [Café Debug](https://cafedebug.com.br) onde crio conteúdo de tecnologia para compartilhar conhecimento na área de TI. Trabalhei com projetos como comércio eletrônico, banco digital e agora entretenimento.<br /><br />
 
 
@@ -21,7 +21,7 @@ I love innovation development and ideas that promote great changes and positivel
 
 💼 Who is Jéssica Nathany as Software Developer?
 
-I am Software Enginer Backend at Globo and I have eight years with C# Language and stack .NET Core, I am a postgraduate in MBA in Software Architecture and Development.
+I am Software Developer Backend at Wiley and I have eight years with C# Language and stack .NET Core, I am a postgraduate in MBA in Software Architecture and Development.
 I founder the technology podcast [Café Debug](https://cafedebug.com.br), where I create technology content for sharing knowledge de the IT area. I was working with projects such as e-commerce, digital bank, and now entertainment.
 
 
