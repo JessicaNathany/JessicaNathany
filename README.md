@@ -25,13 +25,6 @@ I am Software Developer Backend at Wiley and I have eight years with C# Language
 I founder the technology podcast [Café Debug](https://cafedebug.com.br), where I create technology content for sharing knowledge de the IT area. I was working with projects such as e-commerce, digital bank, and now entertainment.
 
 
-<h3 align="left">Articles</h3><br />
-
-📕  Latest Blog Posts.
-- [DEV](https://dev.to/jessicanathany/) ✍🏼 - I'm write about many things and some technologies.
-- [Website](https://cafedebug.com.br/) 💻 - Content creator tech. <br />
-
-
 <h3 align="left">Connect with me:</h3><br />
 <p align="left">
 <a href="https://dev.to/https://medium.com/@jessicanathanyf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://medium.com/@jessicanathanyf" height="30" width="40" /></a>
