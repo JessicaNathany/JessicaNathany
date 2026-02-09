@@ -2,7 +2,7 @@ Português
 
 <h2 align="left">Olá 👋, Sou Jéssica Nathany</h2><br />
 
-Eu sou a Jéssica Nathany, mas todos me chama de Jeh ou Jessy, eu tenho 33 anos e nasci em Brasil na capital de São Paulo. <br />
+Eu sou a Jéssica Nathany, mas todos me chama de Jeh ou Jessy, eu tenho 36 anos e nasci em Brasil na capital de São Paulo. <br />
 Adoro o desenvolvimento de inovações e ideias que promovem grandes mudanças e impactam positivamente as pessoas e o mundo. <br />
 
 💼 Quem é Jéssica Nathany como Software Developer?
