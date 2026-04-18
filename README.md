@@ -8,7 +8,6 @@ Sou apaixonada por desenvolvimento de inovações e ideias que promovem grandes 
 Atualmente sou Backend Software Developer na Wiley, com oito anos de experiência em C# e na stack .NET Core. Sou pós-graduada em MBA em Arquitetura e Desenvolvimento de Software. <br />
 Sou fundadora do podcast de tecnologia [Café Debug](https://cafedebug.com.br), onde compartilho conteúdos sobre TI e inovação. Já atuei em projetos de comércio eletrônico, banco digital e atualmente trabalho com soluções voltadas para entretenimento. <br /><br />
 
-
 ---
 
 <h2 align="left">Hi 👋, I'm Jéssica Nathany</h2><br />
